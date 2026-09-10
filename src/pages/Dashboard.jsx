@@ -19,9 +19,9 @@ function Dashboard() {
             Minhas tarefas
           </a>
 
-          <a href="#" className="menu-item">
+          <Link to="/disciplinas" className="menu-item">
             Disciplinas
-          </a>
+          </Link>
         </nav>
 
         <Link to="/" className="logout-link">
